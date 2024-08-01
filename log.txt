@@ -1,0 +1,2 @@
+this is logs file
+this is second line
